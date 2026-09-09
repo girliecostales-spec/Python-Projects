@@ -1,0 +1,6 @@
+print("Welcome to Beat Name Factory!")
+print("Did you recently create a band with your buddies but you're struggling to name your band? I'm here to help! Answer these questions so I can suggest a name for your band.")
+city_name=input("What is the name of your favourite city? \n")
+pet_name=input("If you were to name your pet, what would it be? \n")
+band_name= (city_name + " " + pet_name)
+print("Here's the name your fans could be shouting..." + " " + band_name + "!")
