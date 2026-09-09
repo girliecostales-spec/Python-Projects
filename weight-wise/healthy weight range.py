@@ -1,4 +1,4 @@
-print ("Welcome to WeightWise - your healthy weight range calculator."")
+print ("Welcome to WeightWise - your healthy weight range calculator.")
 print("Congratulations on taking the first step to being healthy. Let's find your ideal weight range.")
 height_unit=input("Please let me know your height. What unit would you like to use? Type m or feet. \n")
 if height_unit.strip().lower() == "m":
