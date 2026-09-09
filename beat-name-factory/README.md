@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Beat Name Factory is a simple Python program that creates a fun band name based on the user's favourite city and pet name. This project helped me practise collecting user input, storing information in variables, and joining strings together.
+Beat Name Factory is a simple Python program that creates a fun band name based on the user's favourite city and pet name. This is the first project suggested in "100 Days of Code™: The Complete Python Pro Bootcamp". I have since then used this as a basis for my other creative name generator projects. Simple though this project may be, it helped me practise collecting user input, storing information in variables, and joining strings together.
 
 ## Features
 
