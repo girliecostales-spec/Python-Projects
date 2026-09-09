@@ -40,7 +40,7 @@ A program that calculates a user’s Body Mass Index from their height and weigh
 
 A program that calculates a healthy weight range based on the user’s height. It can also compare the user’s current weight with that range.
 
-[View Wellness Weight Guide](wellness-weight-guide/)
+[View WeightWise](wweight-wise/)
 
 
 ## What I Am Learning
