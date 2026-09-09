@@ -1,0 +1,5 @@
+print("Welcome to Pawfect Name!")
+print("Having a tough time naming your new little buddy at home? Fret no more! Let Pawfect Name give you a paw-some monikerfor your newest companion!")
+adjective=input("Give one word to describe your pet's appearance. Start the word with uppercase.\n")
+food=input("Name your favourite dish. It could be a main dish, snack or ingredient. Start the word with lowercase. \n")
+print("Say hello to... " + adjective + food + "!")
