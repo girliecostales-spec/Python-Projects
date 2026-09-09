@@ -20,9 +20,9 @@ These projects were created as I go through the online course "100 Days of Codeâ
 
 These projects generate creative names by collecting words from the user and combining them into a new name. They demonstrate how user input, variables, strings, and string concatenation can be used to build simple interactive programs.
 
-[View the Beat Name Factory](beat-name-factory)
+[View Beat Name Factory](beat-name-factory)
 
-[View Pawfect Name](pawfect-names/)
+[View Pawfect Name](pawfect-name/)
 
 ### FairShare
 
