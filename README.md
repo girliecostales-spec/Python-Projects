@@ -22,7 +22,7 @@ These projects generate creative names by collecting words from the user and com
 
 [View the Beat Name Factory](beat-name-factory)
 
-[View Pawfect Names](pawfect-names/)
+[View Pawfect Name](pawfect-names/)
 
 ### FairShare
 
