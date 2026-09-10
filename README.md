@@ -14,38 +14,61 @@ Every project folder includes:
 
 
 ## Projects
-These projects were created as I go through the online course "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu (https://www.udemy.com/course/100-days-of-code/?couponCode=MT260907G2). Some of these projects were suggested in the course, while others are my original projects. I developed these projects to apply and strengthen the new programming skills and concepts I had learnt.
+These projects were created as I was going through the online course "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu (https://www.udemy.com/course/100-days-of-code/?couponCode=MT260907G2). Some of these projects were suggested in the course. I tweaked them to make the codes my own. I also added elements to improve the original as I learnt new concepts. The rest of the projects are my original ideas. Iworked on them to apply and strengthen the new programming skills and concepts I had learnt.
 
 ### Creative Name Generators 
 
 These projects generate creative names by collecting words from the user and combining them into a new name. They demonstrate how user input, variables, strings, and string concatenation can be used to build simple interactive programs.
 
+#### Course Task
+ 
 [View Beat Name Factory](beat-name-factory)
+
+
+#### Original Projects
 
 [View Pawfect Name](pawfect-name/)
 
-### FairShare
 
-A program that calculates how much each person's contribution based on the bill amount and the size of tip to give.
+### FProductivity Tools
 
-[View Fair Share](rhythm-n-names/)
+This a collection of different programs that help save time, solve specific problems or optimise existing tasks.
 
-### BMI Buddy
 
-A program that calculates a user’s Body Mass Index from their height and weight and displays the corresponding BMI category.
+#### Course Task
+ 
+[View Fair Share](fair-share/)
 
 [View BMI Buddy](bmi-buddy/)
 
-### Wellness Weight Guide
+[View Python Pizza Delivery](python-pizza-delivery/)
 
-A program that calculates a healthy weight range based on the user’s height. It can also compare the user’s current weight with that range.
+[View Velocity Vortext](velocity-vortex/)
+
+
+
+#### Original Projects
 
 [View WeightWise](wweight-wise/)
 
 
+### Games
+
+A collection of simple, interactive games built with Python. I hope others have as much fun playing with them as I had making the game.
+
+#### Course Task
+ 
+[View Hangman](hangman/)
+
+
+#### Original Projects
+
+[View The Diver's Dilemma](the-diver's-dilemma/)
+
+
 ## What I Am Learning
 
-These projects show my progress as I build a foundation in Python programming. I intend to continue improving as I expand my knowledge in Python programming. 
+These projects show my progress as I build a foundation in Python programming.  
 
 Through these projects, I have practised:
 
