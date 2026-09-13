@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Pafect Name is a simple Python program that creates a playful pet name by combining a word describing the pet's appearance with the user's favourite food. This project helped me practise working with user input, variables, strings, and text concatenation.
+Pafect Name is a simple Python program that creates a playful pet name by combining a word describing the pet's appearance with the user's favourite food. This project was inspired by Beat Name Factory. I wanted more practise working with user input, variables, strings, and text concatenation. I, therefore, worked on a similar prokect to see that I can successfully apply what I had learnt.
 
 ## Features
 
