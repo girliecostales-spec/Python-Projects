@@ -48,7 +48,7 @@ Say hello to... Fluffymuffin!
 
 One challenge was making sure the two words formed a readable pet name. I addressed this by asking the user to capitalise the first word and enter the second word in lowercase.
 
-## Future Improvements
+## Possible Improvements
 
 * Prevent empty answers from being submitted
 * Automatically format the user's answers, i.e. change uppercase to lowercase and vice versa
