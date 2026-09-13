@@ -48,7 +48,7 @@ Here's the name your fans could be shouting... Dresden Rouge!
 
 A challenge I encountered was presenting the combined user responses in a single comprehensible sentence. I solved this by using string concatenation. I also used double quotation marks (" ")  to add a space between the two values and in between the phrase, variables and punctuation mark I wanted to use.
 
-## Future Improvements
+## Possible Improvements
 
 * Check that the user has not submitted an empty answer
 * Allow users to choose a preferred music genre
