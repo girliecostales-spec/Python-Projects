@@ -83,7 +83,7 @@ Users may enter units with capital letters or extra spaces. I used `.strip()` to
 
 I used comparison operators and conditional statements to determine whether the user’s weight was below, within, or above the estimated range.
 
-## Future Improvements
+## Possible Improvements
 
 * Add error handling for non-numerical input
 * Prevent zero or negative height and weight values
