@@ -67,7 +67,7 @@ You are in the healthy weight range.
 
 The challenging part of this project is ensuring that user's inputs are properly categorised. I used an `if-elif-else` structure with upper limits so that Python checks each range in the correct order.
 
-## Future Improvements
+## Possible Improvements
 
 * Accept height and weight in different measurement units
 * Check that the user enters valid numerical values
