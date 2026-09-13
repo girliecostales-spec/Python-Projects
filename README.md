@@ -13,8 +13,10 @@ Every project folder includes:
 * Instructions for running the program
 
 
+
 ## Projects
 These projects were created as I was going through the online course "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu (https://www.udemy.com/course/100-days-of-code/?couponCode=MT260907G2). Some of these projects were suggested in the course. I tweaked them to make the codes my own. I also added elements to improve the original as I learnt new concepts. The rest of the projects are my original ideas. Iworked on them to apply and strengthen the new programming skills and concepts I had learnt.
+
 
 ### Creative Name Generators 
 
@@ -22,12 +24,12 @@ These projects generate creative names by collecting words from the user and com
 
 #### Course Task
  
-* Beat Name Factory creates a fun band name based on the user's favourite city and pet name. [View Beat Name Factory](beat-name-factory)
+* [Beat Name Factory](beat-name-factory) creates a fun band name based on the user's favourite city and pet name. 
 
 
 #### Original Projects
 
-* Pawfect Name creates a playful pet name by combining a word describing the pet's appearance with the user's favourite food. [View Pawfect Name](pawfect-name/)
+* [Pawfect Name](pawfect-name/) creates a playful pet name by combining a word describing the pet's appearance with the user's favourite food. 
 
 
 ### Productivity Tools
@@ -37,25 +39,25 @@ This a collection of different programs that help save time, solve specific prob
 
 #### Course Task
  
-* FairShare calculates how much each person should contribute when sharing a bill. [View Fair Share](fair-share/)
+* [Fair Share](fair-share/) calculates how much each person should contribute when sharing a bill. 
 
-* BMI Buddy calculates a user’s Body Mass Index (BMI) using their height in metres and weight in kilograms. [View BMI Buddy](bmi-buddy/)
+* [BMI Buddy](bmi-buddy/) calculates a user’s Body Mass Index (BMI) using their height in metres and weight in kilograms. 
 
-* Mission Imppizzable calculates the cost of a pizza based on its size and selected toppings. [View Mission Impizzable](mission-impizzable/)
+* [Mission Impizzable](mission-impizzable/) calculates the cost of a pizza based on its size and selected toppings. 
 
-* Velocity Vortex is a ticketing program that calculates the total price of a roller coaster ride. [View Velocity Vortex](velocity-vortex)
+* [Velocity Vortex](velocity-vortex) is a ticketing program that calculates the total price of a roller coaster ride. 
 
-* PyPassword Generator creates passwords containing a user-selected number of letters, numbers, and symbols. [View PyPassword Generator](pypassword-generator/)
+* [PyPassword Generator](pypassword-generator/)creates passwords containing a user-selected number of letters, numbers, and symbols. 
 
 
 
 #### Original Projects
 
-* WeightWise estimates a healthy weight range and calculates how much weight the user could lose or gain to reach their ideal weight range. [View WeightWise](weight-wise/)
+* [WeightWise](weight-wise/) estimates a healthy weight range and calculates how much weight the user could lose or gain to reach their ideal weight range. 
 
-* UniqID creates customised reference codes for businesses. [View UniqID](uniq-id/)
+* [UniqID](uniq-id/) creates customised reference codes for businesses. 
 
-* CipherPhrase generates a Wi-Fi password by randomly selecting characters from information supplied by the user. [View CipherPhrase](cipher-phrase/)
+* [CipherPhrase](cipher-phrase/) generates a Wi-Fi password by randomly selecting characters from information supplied by the user. 
 
 ### Games
 
@@ -63,16 +65,15 @@ A collection of simple, interactive games built with Python. I hope others have 
 
 #### Course Task
 
-* Treasure Island is a short text-based adventure game created in Python. [Treasure-Island](treasure-island/)
-
-* Rock, Paper, Sciccors is a Python version of the traditional Rock, Paper, Scissors game. [View Rock-Paper-Scissors](rock-paper-scissors/)
+* [Treasure-Island](treasure-island/) is a short text-based adventure game created in Python. 
+* [Rock, Paper, Sciccors](rock-paper-scissors/) is a Python version of the traditional Rock, Paper, Scissors game. 
 
 
 #### Original Projects
 
-* The Diver's Dilemma is my original text-based, choose-your-own adventure game. [View The Diver's Dilemma](the-diver's-dilemma/)
+* [The Diver's Dilemma](the-diver's-dilemma/) is my original text-based, choose-your-own adventure game. 
 
-* Princess, Dragon and Knight is a simple game inspired by the traditional game Rock, Paper, Scissors. [View Princess, Dragon and Knight](princess-dragon-knight/)
+* [Princess, Dragon and Knight](princess-dragon-knight/) is a simple game inspired by the traditional game Rock, Paper, Scissors. 
 
 ## What I Am Learning
 
