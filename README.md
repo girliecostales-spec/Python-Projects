@@ -22,40 +22,40 @@ These projects generate creative names by collecting words from the user and com
 
 #### Course Task
  
-Beat Name Factory creates a fun band name based on the user's favourite city and pet name[View Beat Name Factory](beat-name-factory)
+* Beat Name Factory creates a fun band name based on the user's favourite city and pet name. [View Beat Name Factory](beat-name-factory)
 
 
 #### Original Projects
 
-Pawfect Name creates a playful pet name by combining a word describing the pet's appearance with the user's favourite food.[View Pawfect Name](pawfect-name/)
+* Pawfect Name creates a playful pet name by combining a word describing the pet's appearance with the user's favourite food. [View Pawfect Name](pawfect-name/)
 
 
-### FProductivity Tools
+### Productivity Tools
 
 This a collection of different programs that help save time, solve specific problems or optimise existing tasks.
 
 
 #### Course Task
  
-FairShare calculates how much each person should contribute when sharing a bill.[View Fair Share](fair-share/)
+* FairShare calculates how much each person should contribute when sharing a bill. [View Fair Share](fair-share/)
 
-BMI Buddy calculates a user’s Body Mass Index (BMI) using their height in metres and weight in kilograms.[View BMI Buddy](bmi-buddy/)
+* BMI Buddy calculates a user’s Body Mass Index (BMI) using their height in metres and weight in kilograms. [View BMI Buddy](bmi-buddy/)
 
-Mission Imppizzable calculates the cost of a pizza based on its size and selected toppings.[View Mission Impizzable](mission-impizzsble/)
+* Mission Imppizzable calculates the cost of a pizza based on its size and selected toppings. [View Mission Impizzable](mission-impizzable/)
 
-Velocity Vortex is a ticketing program that calculates the total price of a roller coaster ride.[View Velocity Vortex](velocity-vortex)
+* Velocity Vortex is a ticketing program that calculates the total price of a roller coaster ride. [View Velocity Vortex](velocity-vortex)
 
-PyPassword Generator creates passwords containing a user-selected number of letters, numbers, and symbols. [View PyPassword Generator](pypassword-generator/)
+* PyPassword Generator creates passwords containing a user-selected number of letters, numbers, and symbols. [View PyPassword Generator](pypassword-generator/)
 
 
 
 #### Original Projects
 
-WeightWise estimates a healthy weight range and calculates how much weight the user could lose or gain to reach their ideal weight range. [View WeightWise](wweight-wise/)
+* WeightWise estimates a healthy weight range and calculates how much weight the user could lose or gain to reach their ideal weight range. [View WeightWise](weight-wise/)
 
-UniqID creates customised reference codes for businesses. [View UniqID](uniq-id/)
+* UniqID creates customised reference codes for businesses. [View UniqID](uniq-id/)
 
-CipherPhrase generates a Wi-Fi password by randomly selecting characters from information supplied by the user. [View CipherPhrase](cipher-phrase/)
+* CipherPhrase generates a Wi-Fi password by randomly selecting characters from information supplied by the user. [View CipherPhrase](cipher-phrase/)
 
 ### Games
 
@@ -63,16 +63,16 @@ A collection of simple, interactive games built with Python. I hope others have 
 
 #### Course Task
 
-Treasure Island is a short text-based adventure game created in Python. [Treasure-Island](treasure-island/)
+* Treasure Island is a short text-based adventure game created in Python. [Treasure-Island](treasure-island/)
 
-Rock, Paper, Sciccors is a Python version of the traditional Rock, Paper, Scissors game. [View Rock-Paper-Scissors](rock-paper-scissors/)
+* Rock, Paper, Sciccors is a Python version of the traditional Rock, Paper, Scissors game. [View Rock-Paper-Scissors](rock-paper-scissors/)
 
 
 #### Original Projects
 
-The Diver's Dilemma is my original text-based, choose-your-own adventure game. [View The Diver's Dilemma](the-diver's-dilemma/)
+* The Diver's Dilemma is my original text-based, choose-your-own adventure game. [View The Diver's Dilemma](the-diver's-dilemma/)
 
-Princess, Dragon and Knight is a simple game inspired by the traditional game Rock, Paper, Scissors. [View Princess, Dragon and Knight](princess-dragon-knight/)
+* Princess, Dragon and Knight is a simple game inspired by the traditional game Rock, Paper, Scissors. [View Princess, Dragon and Knight](princess-dragon-knight/)
 
 ## What I Am Learning
 
