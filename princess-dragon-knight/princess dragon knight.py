@@ -242,10 +242,10 @@ elif result == ("p", 2):
     print("Princess is captured by the dragon. YOU LOSE")
 elif result == ("d", 3):
     print(dragon_knight)
-    print("Dragon was defeated by the knight. YOU LOSE.")
+    print("Dragon is defeated by the knight. YOU LOSE.")
 elif result == ("k", 1):
     print(knight_princess)
-    print("Knight was charmed by the princess. YOU LOSE.")
+    print("Knight is charmed by the princess. YOU LOSE.")
 else:
     print("You and the computer chose the same. IT'S A TIE.")
     
